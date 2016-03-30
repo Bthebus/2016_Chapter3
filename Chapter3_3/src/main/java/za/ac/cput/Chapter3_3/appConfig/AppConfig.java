@@ -1,5 +1,6 @@
 package za.ac.cput.Chapter3_3.appConfig;
 
+import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import za.ac.cput.Chapter3_3.services.Impl.EmployeeServiceImpl;
